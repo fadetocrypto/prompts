@@ -1,0 +1,29 @@
+The two-step workflow to generate image with consistent style featuring the same character
+
+* Step 1: Copy and paste the first block of text into Gemini along with your artifacts (e.g. article). Gemini will analyze the themes and fill in the visual metaphors, returning a completed text prompt.
+* Step 2: Review the completed prompt text. If you like the metaphor, copy and paste the second block of text, ensuring attached image (your avatar reference) is attached to the same message.
+
+---
+
+Step 1: The Ideation and Metaphor Prompt
+
+[Copy and paste this text into Gemini first, followed by your draft article.]
+
+I need you to act as a creative director in the style of Storm Thorgerson (Hipgnosis). Analyze the article text provided below. Your goal is to translate the core abstract theme of the article into a specific, physical, surreal visual metaphor that works as a conceptual album cover. Use your analysis to fill in the two [INSERT...] placeholders in the template below.
+Rules for filling placeholders:
+1. The metaphors must be physical, tangible objects or landscapes (e.g., not "digital data streams," but "thousands of physical punch-cards in a vast desert").
+2. Maintain the emotional tone of the article (e.g., desperate, hopeful, aggressive, or analytical).
+  
+Do not generate an image yet. Just output the completed text prompt based exactly on the template.
+Template:
+A vintage 1970s conceptual analog photograph taken on 35mm film (Hipgnosis/Thorgerson style). Photorealistic and cinematic. In the scene is a physical, highly detailed sculpture of the green creature character from the image, appearing as a life-sized collectible vinyl toy with smooth, tactile textures, complete with the wide eyes, purple beanie, black shirt, purple pants, and cigarette. [INSERT AVATAR PLACEMENT AND ACTION]. The background is [INSERT SURREAL ENVIRONMENT/MASSIVE OBJECT] under intense, high-contrast dramatic lighting (golden hour or stormy). Wide-angle lens, stark juxtaposition, authentic heavy film grain, profound isolation, immense scale, no text.
+[PASTE YOUR ARTICLE BELOW THIS LINE]
+
+---
+
+Step 2: The Generation and Refinement Prompt
+
+[Copy and paste this second command, ensuring image (your avatar reference) is attached to this message*.]
+
+Please generate a photorealistic conceptual image based exactly on the detailed text prompt provided below. I have attached image as the mandatory physical reference for the character. It is vital that the character statue in the generated scene perfectly matches the visual identity, colors, clothing (beanie, black shirt, purple pants), and physical features shown in the image, including the cigarette.
+[PASTE THE COMPLETED TEXT PROMPT FROM STEP 1 BELOW THIS LINE]
