@@ -4,22 +4,22 @@ Context
 The global landscape has shifted into a "New Cold War" dynamic between the US and China. The US maintains a lead in narrative formation and high-end tech, while China leverages its role as the global manufacturing hub. Every micro-development in these strategic friction points directly impacts global supply chains, currency stability, and personal financial planning over the next decade.
 
 Objective
-Leveraging your real-time access to the X (Twitter) data stream and the broader web, conduct a deep-dive, multi-lingual search for events occurring strictly within the last 24 hours regarding the US-China "New Cold War" and related geopolitical spheres. Analyze these events to provide actionable macro-financial and personal life insights.
+Conduct a deep-dive, multi-lingual web search for events occurring strictly within the last 24 hours regarding the US-China "New Cold War" and related geopolitical spheres. Analyze these events to provide actionable macro-financial and personal life insights.
 
 Search Parameters & Workflow
-1. Timeframe: STRICTLY the last 24 hours. Do not include older news. Rely heavily on real-time timestamps.
-2. Source Quality (Crucial for Grok):
-   - Tier 1: Official X accounts and web articles from Reuters, AP, Bloomberg, FT, WSJ, Nikkei Asia, Caixin.
-   - Tier 2: Official government X handles/press releases (e.g., @StateDept, PRC ministries), reputable OSINT accounts (e.g., ISW), or specialized industry outlets.
-   - Discard: Engagement-farming accounts, unverified rumors, and highly speculative partisan blogs. Cross-reference X posts with actual reporting.
+1. Timeframe: STRICTLY the last 24 hours. Do not include older news.
+2. Source Quality:
+   - Tier 1: Reuters, AP, Bloomberg, FT, WSJ, Nikkei Asia, Caixin.
+   - Tier 2: Government press releases (State Dept, PRC Ministry of Commerce), ISW, or specialized industry outlets (e.g., SupplyChainBrain).
+   - Discard: Unverified social media posts or speculative blogs.
 3. Language: Perform searches across English, Simplified Chinese, and Traditional Chinese to identify "narrative gaps" (framing differences between Washington, Beijing, and regional players).
 
 Core Topics to Monitor (Categorized Framework)
 Systematically review global news against these specific pillars. 
 
 For Categories 1 through 5 below:**
-Track Known Cases: Search for updates on the specific subtopics and entities listed under each category.
-Broaden the Search: Do not limit yourself to only the listed known cases. Actively search for and include other key news events, policy shifts, or incidents that logically fall into the broader theme of that specific category.
+- Track Known Cases:Search for updates on the specific subtopics and entities listed under each category.
+- Broaden the Search: Do not limit yourself to only the listed known cases. Actively search for and include other key news events, policy shifts, or incidents that logically fall into the broader theme of that specific category.
 
 1. Macro Trend:
    - Known Cases: US-China trade/military escalations, decoupling efforts, tariff updates, sanctions, or rare earth/critical mineral agreements.
@@ -37,16 +37,16 @@ Broaden the Search: Do not limit yourself to only the listed known cases. Active
    - Known Cases: Semiconductors & AI (export controls, Nexperia/Wingtech disputes, AI breakthroughs), Aerospace/Space (satellite deployments, space race), Renewable Energy (solar/EV supply chains, green tech tariffs).
 
 6. Emerging Fronts & Uncategorized Developments (The Catch-All):
-Directive:** Search for and summarize any significant news events within the 24-hour window that fit the broader context of the New Cold War but do not neatly fit into the predefined categories above. Look for unexpected diplomatic shifts, unlisted resource security issues, cyber domain actions, or unconventional tactics.
+Directive: Search for and summarize any significant news events within the 24-hour window that fit the broader context of the New Cold War but do not neatly fit into the predefined categories above. Look for unexpected diplomatic shifts, unlisted resource security issues, cyber domain actions, or unconventional tactics.
 
 Output Constraints
-- Persona Override: Maintain a strictly professional, neutral, and data-driven tone. Do not use humor, sarcasm, or colloquialisms.
 - Logic: If no factual news exists for a category or subtopic within the 24h window, state exactly: "No significant developments in the last 24 hours." DO NOT hallucinate, speculate, or recycle old news.
-- Verification: Include a clickable direct URL (to the news article or the verified X post) for every event cited.
+- Style: Professional, concise, data-driven English.
+- Verification: Include a clickable direct URL for every event cited.
 
 Template for Each Entry
 [CATEGORY - SUBTOPIC/EVENT]
 - Summary: [1-2 sentences detailing the specific event]
-- Perspective Gap: [Briefly note if Chinese/regional sources differ from Western sources on this specific event. If none, state "Aligned"]
-- Financial/Life Impact: [Brief actionable takeaway: e.g., "Expect volatility in semiconductor ETFs" or "Potential energy price hike"]
-- Source: [Direct URL]
+- Perspective Gap:** [Briefly note if Chinese/regional sources differ from Western sources on this specific event. If none, state "Aligned"]
+- Financial/Life Impact:** [Actionable takeaway: e.g., "Expect volatility in semiconductor ETFs" or "Potential energy price hike"]
+- Source:** [Direct URL]
